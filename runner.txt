@@ -1,5 +1,5 @@
 -- This is a quick setup file for the database portfolio
--- Made by Rajat Payghan and Rudra Goyal
+-- Made by Shashwat Pandey 
 -- Replace paths to the file with the path from your desktop
 -- Keep the order intact
 --   1. Schema
@@ -8,7 +8,7 @@
 --   4. Final Data
 
 -- Replace the below with paths from your system
-SOURCE /Users/rajatpayghan/Code/BITS Pilani CS Programs/DBMS Project/portfolio-schema.sql
-SOURCE /Users/rajatpayghan/Code/BITS Pilani CS Programs/DBMS Project/portfolio-procedures.sql
-SOURCE /Users/rajatpayghan/Code/BITS Pilani CS Programs/DBMS Project/portfolio-triggers.sql
-SOURCE /Users/rajatpayghan/Code/BITS Pilani CS Programs/DBMS Project/final-data.sql
+SOURCE /Users/shashwatpandey/Code/BITS Pilani Programs/DBMS Project/portfolio-schema.sql
+SOURCE /Users/shashwatpandey/Code/BITS Pilani Programs/DBMS Project/portfolio-procedures.sql
+SOURCE /Users/shashwatpandey/Code/BITS Pilani Programs/DBMS Project/portfolio-triggers.sql
+SOURCE /Users/shashwatpandey/Code/BITS Pilani Programs/DBMS Project/final-data.sql
